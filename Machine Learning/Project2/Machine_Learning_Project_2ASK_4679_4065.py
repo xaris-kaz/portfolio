@@ -1,7 +1,6 @@
 #Kazakidis Theocharis
 #4679
-#Kazakidis Konstantinos
-#4065
+
 
 # In[1]:
 
