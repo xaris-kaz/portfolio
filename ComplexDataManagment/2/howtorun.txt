@@ -1,0 +1,10 @@
+
+Theocharis Kazakidis
+
+4679
+
+Meros_1: python3 Meros1_Kazakidis_Theocharis_4679.py tiger_roads.csv
+
+Meros_2: python3 Meros2_Kazakidis_Theocharis_4679.py queries.txt
+
+Meros_3: python3 Meros3_Kazakidis_Theocharis_4679.py queries.txt
